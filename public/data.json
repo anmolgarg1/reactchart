@@ -1,0 +1,38 @@
+[ 
+    {
+        "id": 1,
+        "name": "Rajesh",
+        "presentDays":25
+      
+    },
+    {
+        "id": 2,
+        "name": "Niel",
+        "presentDays":10
+       
+    },
+    {
+        "id": 3,
+        "name": "Nitin",
+        "presentDays":2
+       
+    },
+    {
+        "id": 4,
+        "name": "Mukesh",
+        "presentDays":12
+       
+    },
+    {
+        "id": 5,
+        "name": "Pankaj",
+        "presentDays":30
+       
+    },
+    {
+        "id": 6,
+        "name": "Mahesh",
+        "presentDays":18
+       
+    }
+]
